@@ -1,1 +1,4 @@
-# cost
+- [ ]  Write server deployment &service yaml
+- [ ]  Test remote attestation when server on k3s and client use docker on .230
+- [ ]  Modify daisyfl-quickstart-pytorch-ue dockerfile , add dns server address
+- [ ]  Modify daisyfl-quickstart-pytorch-ue doc on notion
